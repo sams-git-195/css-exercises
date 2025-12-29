@@ -7,12 +7,12 @@
     font-family: verdana, dejavu sans, sans-serif;
 }
 
-.two {
+#two {
     color: blue;
     font-size: 36px;
 }
 
-.four {
+#four {
     background-color: limegreen;
     font-weight: bold;
 }
